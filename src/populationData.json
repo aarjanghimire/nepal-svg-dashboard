@@ -1,0 +1,116 @@
+{
+  "provinces": [
+    {
+      "name": "Koshi",
+      "districts": [
+        { "name": "Bhojpur", "population": 175298 },
+        { "name": "Dhankuta", "population": 102996 },
+        { "name": "Ilam", "population": 179125 },
+        { "name": "Jhapa", "population": 600000 },
+        { "name": "Khotang", "population": 115000 },
+        { "name": "Morang", "population": 1148156 },
+        { "name": "Okhaldhunga", "population": 104000 },
+        { "name": "Panchthar", "population": 113000 },
+        { "name": "Sankhuwasabha", "population": 150000 },
+        { "name": "Solukhumbu", "population": 30000 },
+        { "name": "Sunsari", "population": 500000 },
+        { "name": "Taplejung", "population": 26000 },
+        { "name": "Terhathum", "population": 60000 },
+        { "name": "Udayapur", "population": 350000 }
+      ]
+    },
+    {
+      "name": "Madesh",
+      "districts": [
+        { "name": "Bara", "population": 119000 },
+        { "name": "Dhanusa", "population": 118000 },
+        { "name": "Mahottari", "population": 100000 },
+        { "name": "Parsa", "population": 135000 },
+        { "name": "Rautahat", "population": 112000 },
+        { "name": "Saptari", "population": 136000 },
+        { "name": "Sarlahi", "population": 125000 },
+        { "name": "Siraha", "population": 118000 }
+      ]
+    },
+    {
+      "name": "Bagmati",
+      "districts": [
+        { "name": "Bhaktapur", "population": 300000 },
+        { "name": "Chitwan", "population": 600000 },
+        { "name": "Dolakha", "population": 200000 },
+        { "name": "Kathmandu", "population": 862400 },
+        { "name": "Lalitpur", "population": 294098 },
+        { "name": "Makwanpur", "population": 300000 },
+        { "name": "Ramechhap", "population": 200000 },
+        { "name": "Kavre", "population": 200000 },
+        { "name": "Sindupalchowk", "population": 200000 },
+        { "name": "Nuwakot", "population": 200000 },
+        { "name": "Rasuwa", "population": 200000 },
+        { "name": "Dhading", "population": 200000 },
+        { "name": "Sindhuli", "population": 300000 }
+      ]
+    },
+    {
+      "name": "Gandaki",
+      "districts": [
+        { "name": "Baglung", "population": 200000 },
+        { "name": "Gorkha", "population": 300000 },
+        { "name": "Kaski", "population": 500000 },
+        { "name": "Lamjung", "population": 150000 },
+        { "name": "Manang", "population": 6000 },
+        { "name": "Mustang", "population": 13000 },
+        { "name": "Parbat", "population": 100000 },
+        { "name": "Tanahu", "population": 100000 },
+        { "name": "Myagdi", "population": 100000 },
+        { "name": "Nawalpur", "population": 100000 },
+        { "name": "Syangja", "population": 250000 }
+      ]
+    },
+    {
+      "name": "Karnali",
+      "districts": [
+        { "name": "Dailekh", "population": 200000 },
+        { "name": "Dolpa", "population": 30000 },
+        { "name": "Jumla", "population": 30000 },
+        { "name": "Jajarkot", "population": 30000 },
+        { "name": "Kalikot", "population": 30000 },
+        { "name": "Mugu", "population": 10000 },
+        { "name": "Rukum West", "population": 100000 },
+        { "name": "Salyan", "population": 100000 },
+        { "name": "Humla", "population": 30000 },
+        { "name": "Surkhet", "population": 200000 }
+      ]
+    },
+    {
+      "name": "Sudurpashchim",
+      "districts": [
+        { "name": "Achham", "population": 200000 },
+        { "name": "Doti", "population": 200000 },
+        { "name": "Kailali", "population": 500000 },
+        { "name": "Kanchanpur", "population": 300000 },
+        { "name": "Dadeldhura", "population": 30000 },
+        { "name": "Darchula", "population": 30000 },
+        { "name": "Baitadi", "population": 30000 },
+        { "name": "Bajura", "population": 30000 },
+        { "name": "Bajhang", "population": 200000 }
+      ]
+    },
+    {
+      "name": "Lumbini Province",
+      "districts": [
+        { "name": "Arghakhanchi", "population": 100000 },
+        { "name": "Gulmi", "population": 100000 },
+        { "name": "Kapilvastu", "population": 300000 },
+        { "name": "Palpa", "population": 200000 },
+        { "name": "Rupandehi", "population": 400000 },
+        { "name": "Rukum East", "population": 400000 },
+        { "name": "Pyuthan", "population": 400000 },
+        { "name": "Banke", "population": 400000 },
+        { "name": "Bardiya", "population": 400000 },
+        { "name": "Dang", "population": 400000 },
+        { "name": "Rolpa", "population": 400000 },
+        { "name": "Parsai", "population": 250000 }
+      ]
+    }
+  ]
+}
